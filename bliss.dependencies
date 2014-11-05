@@ -24,9 +24,9 @@
         "revision": "cm-11.0"
     },
     {
-        "remote": "cm",
+        "remote": "TeamBliss",
         "repository": "android_device_samsung_t0lte",
         "target_path": "device/samsung/t0lte",
-        "revision": "cm-11.0"
+        "revision": "kk4.4"
     }
 ]
